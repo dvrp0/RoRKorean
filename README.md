@@ -18,8 +18,8 @@
 <img src="./images/RoR1KorFirstDraft-1.png" />
 <img src="./images/RoR1KorFirstDraft-2.png" />
 <img src="./images/RoR1KorFirstDraft-3.png" />
-<img src="./images/RoR1KorFirstDraft-4.gif" />
 <img src="./images/RoR1KorFirstDraft-5.gif" />
+<img src="./images/RoR1KorFirstDraft-4.gif" />
 
 ## 기타
 문제가 있다면 [이슈](https://github.com/dvrp0/RoRKorean/issues) 남겨주시면 감사하겠습니다 👍
