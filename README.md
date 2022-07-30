@@ -10,7 +10,7 @@
 
 ## 사용 방법
 
- 1. [releases](https://github.com/dvrp0/RoRKorean/releases)에서 `.zip` 파일 다운로드
+ 1. [releases](https://github.com/dvrp0/RoRKorean/releases)에서 `RoRKoreanPatcher.zip` 파일 다운로드
  2. 압축 해제하고 `RoRKoreanPatcher.exe` 실행
 
 ## 스크린샷
