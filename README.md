@@ -13,6 +13,15 @@
  1. [releases](https://github.com/dvrp0/RoRKorean/releases)에서 `RoRKoreanPatcher.zip` 파일 다운로드
  2. 압축 해제하고 `RoRKoreanPatcher.exe` 실행
 
+### 오류 발생 시
+![](https://media.discordapp.net/attachments/815214884920098817/1042006159198003240/image.png)
+
+패치가 정상적으로 진행되지 않는다면
+
+ 1. 위 이미지처럼 스팀 라이브러리에서 Risk of Rain을 우클릭하고 `로컬 파일 보기`를 클릭해 게임 경로 열기
+ 2. 다운로드된 `data.win` 파일을 해당 경로로 옮겨 덮어씌우기
+ 3. 만약 `data.win` 파일이 다운로드되지 않았다면 [여기](https://github.com/dvrp0/RoRKorean/raw/main/data.win)를 눌러 다운로드
+
 ## 스크린샷
 
 <img src="./images/RoR1KorFirstDraft-1.png" />
